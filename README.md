@@ -1,6 +1,6 @@
-# myapp
+# Awesome Registration UI In Flutter
 
-A new Flutter application.
+Created a UI Design for Login , Signup & Social Login Using Flutter
 
 ## Getting Started
 
